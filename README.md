@@ -5,6 +5,6 @@ A platform for user where user can listen and request for  his/her prefered audi
 #### flutter + JS
 =======
 # Contributors
-#### [Bibhu Kiju] (https://github.com/BibhuKiju)
+#### [Bibhu Kiju](https://github.com/BibhuKiju)
 #### [Chetan budhathoki](https://github.com/ChetanBudhathoki)
 
