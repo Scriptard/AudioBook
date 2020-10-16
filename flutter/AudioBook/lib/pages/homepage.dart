@@ -63,7 +63,7 @@ class HomePage extends StatelessWidget {
                       return Card(
                         child: Center(
                             child: Image.network(
-                          'https://edit.org/images/cat/book-covers-big-2019101610.jpg',
+                          'https://edit.org/images/cat/book-covers-big-2019101610.jpgx',
                           fit: BoxFit.fill,
                         )),
                       );
