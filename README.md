@@ -10,5 +10,5 @@ A platform for user where user can listen and request for  his/her prefered audi
 ---
 ## [How to contribute](https://github.com/Scriptard/AudioBook/blob/dev/CONTRIBUTING.md)
 ---
-##### [live preview](https://github.com/Scriptard/AudioBook/blob/dev/webfolder/index.html)
+##### [live preview](https://github.com/Scriptard/AudioBook/blob/dev/webfolder)
 
